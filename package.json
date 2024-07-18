@@ -1,0 +1,17 @@
+{
+  "name": "dev.helight.hierarchy",
+  "displayName": "Better Hierarchy",
+  "description": "A better hierarchy view for Unity",
+  "license": "MIT",
+  "version": "0.0.1",
+  "unity": "6000.0",
+  "dependencies": {
+    "com.unity.editorcoroutines": "1.0.0"
+  },
+  "keywords": ["unity", "editor", "hierarchy"],
+  "author": {
+    "name": "Helight",
+    "url": "https://helight.dev",
+    "email": "contact@helight.dev"
+  }
+}
